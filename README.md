@@ -86,7 +86,7 @@
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)]([linkedin.com/in/ann-blessy-philips](https://www.linkedin.com/in/ann-blessy-philips?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjPHhcDuKR%2BCh8T4cWkbDNQ%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ann-blessy-philips)
 
 📧 Reach me at: **annblessy0731@gmail.com**  
 💬 Let's collaborate and build something amazing! 🚀
